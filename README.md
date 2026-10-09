@@ -25,7 +25,7 @@ Each row in the data is one machine, described by about 75 properties: antivirus
 
 The final submission used the tuned XGBoost model (Model 4) and scored **0.633** accuracy on the Kaggle leaderboard, above the 0.55 cutoff. The top score in the competition was 0.696.
 
-Validation accuracy comes from a random 80/20 split of the training data (`ran
+Validation accuracy comes from a random 80/20 split of the training data
 
 ## Approach
 
